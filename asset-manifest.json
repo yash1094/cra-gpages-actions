@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/cra-gpages-actions/static/js/main.f1cd9af9.chunk.js",
+    "main.js.map": "/cra-gpages-actions/static/js/main.f1cd9af9.chunk.js.map",
+    "runtime-main.js": "/cra-gpages-actions/static/js/runtime-main.5029e670.js",
+    "runtime-main.js.map": "/cra-gpages-actions/static/js/runtime-main.5029e670.js.map",
+    "static/js/2.8237886d.chunk.js": "/cra-gpages-actions/static/js/2.8237886d.chunk.js",
+    "static/js/2.8237886d.chunk.js.map": "/cra-gpages-actions/static/js/2.8237886d.chunk.js.map",
+    "index.html": "/cra-gpages-actions/index.html",
+    "precache-manifest.6e07ccee0fbfed0baadfd92e4065061d.js": "/cra-gpages-actions/precache-manifest.6e07ccee0fbfed0baadfd92e4065061d.js",
+    "service-worker.js": "/cra-gpages-actions/service-worker.js",
+    "static/js/2.8237886d.chunk.js.LICENSE.txt": "/cra-gpages-actions/static/js/2.8237886d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5029e670.js",
+    "static/js/2.8237886d.chunk.js",
+    "static/js/main.f1cd9af9.chunk.js"
+  ]
+}
