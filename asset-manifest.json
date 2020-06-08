@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/cra-gpages-actions/static/js/main.e792d3be.chunk.js",
-    "main.js.map": "/cra-gpages-actions/static/js/main.e792d3be.chunk.js.map",
-    "runtime-main.js": "/cra-gpages-actions/static/js/runtime-main.e76552e5.js",
-    "runtime-main.js.map": "/cra-gpages-actions/static/js/runtime-main.e76552e5.js.map",
-    "static/js/2.d531930e.chunk.js": "/cra-gpages-actions/static/js/2.d531930e.chunk.js",
-    "static/js/2.d531930e.chunk.js.map": "/cra-gpages-actions/static/js/2.d531930e.chunk.js.map",
+    "main.js": "/cra-gpages-actions/static/js/main.bb1714b8.chunk.js",
+    "main.js.map": "/cra-gpages-actions/static/js/main.bb1714b8.chunk.js.map",
+    "runtime-main.js": "/cra-gpages-actions/static/js/runtime-main.afcfef4b.js",
+    "runtime-main.js.map": "/cra-gpages-actions/static/js/runtime-main.afcfef4b.js.map",
+    "static/js/2.28cd0851.chunk.js": "/cra-gpages-actions/static/js/2.28cd0851.chunk.js",
+    "static/js/2.28cd0851.chunk.js.map": "/cra-gpages-actions/static/js/2.28cd0851.chunk.js.map",
     "index.html": "/cra-gpages-actions/index.html",
-    "precache-manifest.8332e70855146d7578f7505eac1ca6f2.js": "/cra-gpages-actions/precache-manifest.8332e70855146d7578f7505eac1ca6f2.js",
+    "precache-manifest.40d31ef3270ada9bc1dda3c6f394f822.js": "/cra-gpages-actions/precache-manifest.40d31ef3270ada9bc1dda3c6f394f822.js",
     "service-worker.js": "/cra-gpages-actions/service-worker.js",
-    "static/js/2.d531930e.chunk.js.LICENSE.txt": "/cra-gpages-actions/static/js/2.d531930e.chunk.js.LICENSE.txt"
+    "static/js/2.28cd0851.chunk.js.LICENSE.txt": "/cra-gpages-actions/static/js/2.28cd0851.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e76552e5.js",
-    "static/js/2.d531930e.chunk.js",
-    "static/js/main.e792d3be.chunk.js"
+    "static/js/runtime-main.afcfef4b.js",
+    "static/js/2.28cd0851.chunk.js",
+    "static/js/main.bb1714b8.chunk.js"
   ]
 }
