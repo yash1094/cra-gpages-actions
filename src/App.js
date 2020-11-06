@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <h1>A basic react app</h1>
       <Navigation />
-      <Route path="/" component={Home} />
+      <Route path="/" component={Home} exact />
       <Route path="/about" component={About} />
       <Route path="/contact" component={Contact} />
     </div>
